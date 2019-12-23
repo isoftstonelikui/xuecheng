@@ -1,0 +1,11 @@
+{
+  "children":[
+    {"pname":"redis简介","grade":2,"children":[
+      {"pname":"redis入门一","grade":3},
+      {"pname":"redis入门二","grade":3}
+    ]},
+    {"pname":"NoSQL简介","grade":3},
+    {"pname":"认识Redis","grade":3},
+    {"pname":"Redis数据操作","grade":3}
+  ]
+}
