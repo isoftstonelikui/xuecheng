@@ -63,7 +63,7 @@
             <dependency>
                 <groupId>com.github.pagehelper</groupId>
                 <artifactId>pagehelper-spring-boot-starter</artifactId>
-                <version>${page.github.pagehelper}</version>
+                <version>${com.github.pagehelper}</version>
             </dependency>
             <dependency>
                 <groupId>com.alibaba</groupId>
